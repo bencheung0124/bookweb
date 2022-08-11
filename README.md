@@ -10,6 +10,7 @@ In the client directory, you can run:
 
 or
 
-### `npm run build` and add following code in server.js at server directory for production
-
-app.use('/', express.static('../../client/build'));
+for production run follwing command in client directory:
+### `npm run build` 
+in server directory:
+### `npm run pro` 
